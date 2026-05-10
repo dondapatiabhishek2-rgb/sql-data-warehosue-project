@@ -1,0 +1,5 @@
+CREATE DATABASE DataWarehouse;
+USE DataWarehouse;
+CREATE DATABASE bronze;
+CREATE DATABASE silver;
+CREATE DATABASE gold;
